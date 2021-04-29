@@ -34,13 +34,15 @@ function App() {
         </div>
         <div>
           <footer>
-            Made with <strong>React</strong> at{" "}
+            Made with &nbsp;<strong>React</strong> &nbsp;at
             <strong>
+              &nbsp;
               <a href="https://www.lereacteur.io/" target="_blank">
-                le Reacteur
-              </a>
+                Le Reacteur
+              </a>{" "}
+              &nbsp;
             </strong>
-            by <strong>Tom</strong>
+            by &nbsp; <strong>Tom</strong>
           </footer>
         </div>
       </div>
