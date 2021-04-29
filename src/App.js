@@ -36,7 +36,9 @@ function App() {
           <footer>
             Made with <strong>React</strong> at{" "}
             <strong>
-              <a href="https://www.lereacteur.io/">le Reacteur</a>
+              <a href="https://www.lereacteur.io/" target="_blank">
+                le Reacteur
+              </a>
             </strong>
             by <strong>Tom</strong>
           </footer>
